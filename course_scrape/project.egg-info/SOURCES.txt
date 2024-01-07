@@ -1,0 +1,13 @@
+setup.py
+course_scrape/__init__.py
+course_scrape/items.py
+course_scrape/middlewares.py
+course_scrape/pipelines.py
+course_scrape/settings.py
+course_scrape/spiders/__init__.py
+course_scrape/spiders/schedule_of_classes.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
